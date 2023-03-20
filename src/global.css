@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mitr:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-raleway: Raleway;
+  --font-montserrat: Montserrat;
+  --font-mitr: Mitr;
+  --font-overpass: Overpass;
+
+  /* font sizes */
+  --font-size-41xl: 3.75rem;
+  --font-size-mid: 1.06rem;
+  --font-size-xl: 1.25rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-17xl: 2.25rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #fefefe;
+  --color-mediumslateblue-100: #5451d6;
+  --color-mediumslateblue-200: rgba(88, 99, 248, 0.5);
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-31xl: 50px;
+}

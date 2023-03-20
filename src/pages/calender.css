@@ -1,0 +1,116 @@
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 97.81rem;
+  background-color: var(--color-mediumslateblue-100);
+  width: 50.63rem;
+  height: 101.15rem;
+  transform: rotate(75.22deg);
+  transform-origin: 0 0;
+}
+.calender-inner {
+  position: absolute;
+  top: -24.01rem;
+  left: -12.88rem;
+  width: 110.72rem;
+  height: 74.75rem;
+}
+.calender3 {
+  position: absolute;
+  height: 7.17%;
+  width: 22.99%;
+  top: 12.07%;
+  left: 40.21%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 2.63rem;
+  left: 3.88rem;
+  width: 14.94rem;
+  height: 7.81rem;
+  object-fit: cover;
+}
+.fi-rr-portrait-icon2 {
+  position: absolute;
+  top: 3.81rem;
+  left: 81.88rem;
+  width: 3.69rem;
+  height: 3.75rem;
+  overflow: hidden;
+}
+.navbar-inner {
+  position: absolute;
+  top: 0.63rem;
+  left: 27.5rem;
+  border-radius: var(--br-11xl);
+  border: 4px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 10.5rem;
+  height: 3.81rem;
+}
+.about2,
+.calender4,
+.log-in2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.log-in2 {
+  position: absolute;
+  top: 0.63rem;
+  left: 27.5rem;
+  font-size: var(--font-size-xl);
+  width: 10.5rem;
+  height: 3.81rem;
+}
+.about2,
+.calender4 {
+  top: 0;
+  width: 11.16rem;
+}
+.calender4 {
+  position: absolute;
+  left: 0;
+  color: var(--color-white);
+  height: 4.44rem;
+}
+.about2 {
+  left: 16.31rem;
+}
+.about2,
+.home2,
+.navbar2 {
+  position: absolute;
+  height: 4.44rem;
+}
+.home2 {
+  top: 0;
+  left: 9rem;
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  width: 11.16rem;
+}
+.navbar2 {
+  top: 3.06rem;
+  left: 40.56rem;
+  width: 38rem;
+  font-size: var(--font-size-mid);
+  color: var(--color-gray);
+  font-family: var(--font-montserrat);
+}
+.calender2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 140.38rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
